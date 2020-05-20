@@ -1,0 +1,41 @@
+
+/*# sourceMappingURL=../../../scss */
+
+.btn-primary{
+	background-color: #319795;
+	border: 1px solid #319795;
+}
+.twoSittingSpan{
+	background-color: #319795;
+	border: 1px solid #319795;
+	color: #fff;
+	/* padding: 5px; */
+	cursor: pointer;
+	border-radius: 3px;
+}
+.oneSittingSpan{
+		background-color: #319795;
+	border: 1px solid #319795;
+	color: #fff;
+	/* padding: 5px; */
+	cursor: pointer;
+	border-radius: 3px;
+}
+
+#clear{
+	background-color: #319795;
+	border: 1px solid #319795;
+	color: #fff;
+}
+.messageAboutOne,
+#two-Sittings{
+	display: none;
+	/* display: flex; */
+}
+.one-Sitting{
+	display: flex;
+}
+/*.btn-primary:hover{
+	background-color: #000;
+	border: 1px solid #eee;
+}*/
